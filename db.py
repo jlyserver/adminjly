@@ -328,5 +328,9 @@ def search_dating(did=None):
 
 
 if __name__ == '__main__':
+    r = list_user()
+    print(r)
+'''
     r = digest('jly2018!!!')
     print(r)
+'''
